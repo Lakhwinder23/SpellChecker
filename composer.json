@@ -1,0 +1,7 @@
+{
+    "require": {
+        "hunspell-php/hunspell-php": "^1.0",
+        "belniakmedia/hunspell-php": "^1.2",
+        "tigitz/php-spellchecker": "^0.5.0"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "belniakmedia/hunspell-php",
+  "description": "Hunspell PHP wrapper",
+  "minimum-stability": "dev",
+  "version": "1.2",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Janusz Żukowicz",
+      "email": "john_zuk@wp.pl"
+    }
+  ],
+  "require": {
+    "php" : ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "HunspellPHP\\": "src/HunspellPHP"
+    }
+  }
+}
